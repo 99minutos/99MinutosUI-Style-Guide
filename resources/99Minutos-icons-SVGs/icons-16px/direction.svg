@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/16px/Direction</title>
+    <g id="Icons/16px/Direction" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gps" transform="translate(0.500000, 1.500000)" fill="#2C2E2E" fill-rule="nonzero">
+            <path d="M12.6777778,3.88888889 L1.78888889,0.777777778 C1.16666667,0.622222222 0.622222222,1.16666667 0.777777778,1.78888889 L3.88888889,12.6777778 C4.12222222,13.3777778 5.05555556,13.4555556 5.36666667,12.7555556 L7.54444444,7.62222222 L12.6777778,5.44444444 C13.4555556,5.05555556 13.3777778,4.12222222 12.6777778,3.88888889 Z" id="Path" transform="translate(6.991628, 6.997106) scale(-1, 1) translate(-6.991628, -6.997106) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/16px/More</title>
+    <g id="Icons/16px/More" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="16px_menu-5" transform="translate(0.000000, 6.500000)" fill="#2C2E2E" fill-rule="nonzero">
+            <path d="M8,0 C8.82842712,0 9.5,0.671572875 9.5,1.5 C9.5,2.32842712 8.82842712,3 8,3 C7.17157288,3 6.5,2.32842712 6.5,1.5 C6.5,0.671572875 7.17157288,0 8,0 Z M1.5,0 C2.32842712,0 3,0.671572875 3,1.5 C3,2.32842712 2.32842712,3 1.5,3 C0.671572875,3 0,2.32842712 0,1.5 C0,0.671572875 0.671572875,0 1.5,0 Z M14.5,0 C15.3284271,0 16,0.671572875 16,1.5 C16,2.32842712 15.3284271,3 14.5,3 C13.6715729,3 13,2.32842712 13,1.5 C13,0.671572875 13.6715729,0 14.5,0 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
