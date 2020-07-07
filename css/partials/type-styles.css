@@ -1,0 +1,104 @@
+/* This code reflects the styles declared on the UI Guideline doc included here under resources*/
+h1 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2.25rem;
+}
+
+h3 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.75rem;
+}
+
+h4 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+
+h5 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.25rem;
+}
+
+/* Classes can be changed to ids if needed */
+.button1 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.25rem;
+}
+
+.button2 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.caption1 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+}
+
+.caption2 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+/* General body style declared */
+body {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.125rem;
+}
+
+/* Anormal body or other elements are listed below, still under -body- */
+.body1 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.3125rem;
+}
+
+.body3 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1rem;
+}
+
+/* Styles refering to body end */
+.small-text {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.75rem;
+}
+
+menu {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
+/* End of styles conveyed 'yet' */

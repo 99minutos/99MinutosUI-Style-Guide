@@ -1,0 +1,97 @@
+/* This code reflects the styles declared on the UI Guideline doc included here under resources*/
+h1 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.3125rem;
+}
+
+h2 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+h3 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.9375rem;
+}
+
+h4 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.625rem;
+}
+
+/* h5 & h4 should be synthesized into one for responsive (mobile) purposes */
+/* h5 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.625rem;
+} */
+/* Classes can be changed to ids if needed */
+.button1 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.button2 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.75rem;
+}
+
+.caption1 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.75rem;
+}
+
+/* caption1 & caption2 should be synthesized into one for responsive (mobile) purposes */
+/* .caption2 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+} */
+/* General body style declared */
+body {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.75rem;
+}
+
+/* Anormal body or other elements are listed below, still under -body- */
+.body2 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.5625rem;
+}
+
+/* Styles refering to body end */
+.small-text {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.5rem;
+}
+
+menu {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 0.8125rem;
+}
+
+/* End of styles conveyed 'yet' */
