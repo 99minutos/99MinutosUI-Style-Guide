@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1719px" height="2224px" viewBox="0 0 1719 2224" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>01. Colors - SVG@2x</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-15" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-17" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-19" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-21" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-23" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-25" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-27" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-29" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-30">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-31" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-32">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-33" x="0" y="0" width="672" height="190" rx="12"></rect>
+        <filter x="-14.8%" y="-48.7%" width="129.6%" height="204.7%" filterUnits="objectBoundingBox" id="filter-34">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-35">
+            <stop stop-color="#6EC815" offset="0%"></stop>
+            <stop stop-color="#DFEFD3" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-36" x="0" y="0" width="672" height="190" rx="12"></rect>
+        <filter x="-14.8%" y="-48.7%" width="129.6%" height="204.7%" filterUnits="objectBoundingBox" id="filter-37">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-38">
+            <stop stop-color="#A6D24F" offset="0%"></stop>
+            <stop stop-color="#F1F3DD" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-39" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-40">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-41" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-42">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-43" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-44">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-45" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-46">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-47" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-48">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-49" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-50">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-51" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-52">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-53" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-54">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-55" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-56">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-57" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-58">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-59" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-60">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-61" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-62">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-63" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-64">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-65" x="0" y="0" width="230" height="190" rx="12"></rect>
+        <filter x="-43.3%" y="-48.7%" width="186.5%" height="204.7%" filterUnits="objectBoundingBox" id="filter-66">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="32" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-67" x="0" y="0" width="2226" height="120"></rect>
+        <filter x="-0.7%" y="-12.5%" width="101.3%" height="125.0%" filterUnits="objectBoundingBox" id="filter-68">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="01.-Colors---SVG" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FAFAFA" x="0" y="0" width="1719" height="2224"></rect>
+        <g id="Color" transform="translate(120.000000, 373.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="#7ebc44" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#707070">
+                <tspan x="75.3557129" y="170">#7EBC44</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#7EBC44" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(376.000000, 373.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <text id="#343635" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="76.1296387" y="170">#343635</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#343635" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(632.000000, 373.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+            <text id="#ffffff" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="78.8669434" y="170">#FFFFFF</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(120.000000, 722.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+            </g>
+            <text id="#ffc900" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="76.3786621" y="170">#FFC900</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#FFC900" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(376.000000, 722.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+            </g>
+            <text id="#FFDC5D" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="74.6044922" y="170">#FFDC5D</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#FFDC5D" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(632.000000, 722.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+            </g>
+            <text id="#fdf0ce" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="76.2001953" y="170">#FDF0CE</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#FDF0CE" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(889.000000, 722.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+            </g>
+            <text id="#f57600" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="76.7543945" y="170">#F57600</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#F57600" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(1145.000000, 722.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+            </g>
+            <text id="#F8A85D" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="75.1523438" y="170">#F8A85D</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#F8A85D" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(1401.000000, 722.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
+            </g>
+            <text id="#fdd6c2" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="75.6313477" y="170">#FDD6C2</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#FDD6C2" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(120.000000, 976.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-19"></use>
+            </g>
+            <text id="#979797" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#3F3356">
+                <tspan x="78.1633301" y="170">#979797</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#979797" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(376.000000, 976.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-21"></use>
+            </g>
+            <text id="#B1B1B1" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#3F3356">
+                <tspan x="79.6159668" y="170">#B1B1B1</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#B1B1B1" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(632.000000, 976.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-23"></use>
+            </g>
+            <text id="#F2F2F6" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="78.3874512" y="170">#F2F2F6</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#F2F2F6" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(120.000000, 1230.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-25"></use>
+            </g>
+            <text id="#EF4026" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#3F3356">
+                <tspan x="76.6049805" y="170">#EF4026</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#EF4026" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(376.000000, 1230.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-27"></use>
+            </g>
+            <text id="#F65050" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#3F3356">
+                <tspan x="76.8186035" y="170">#F65050</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill-opacity="0.64682583" fill="#F65050" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(632.000000, 1230.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-29"></use>
+            </g>
+            <text id="#ffcfc9" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="76.3122559" y="170">#FFCFC9</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#FFCFC9" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(120.000000, 1579.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-32)" xlink:href="#path-31"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-31"></use>
+            </g>
+            <text id="#2c2e2e" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="76.8144531" y="170">#2C2E2E</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#2C2E2E" fill-rule="nonzero"></path>
+        </g>
+        <g id="Gradient" transform="translate(120.000000, 1928.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-34)" xlink:href="#path-33"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-33"></use>
+            </g>
+            <text id="#7ebc44" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="23.3557129" y="170">#7EBC44</tspan>
+            </text>
+            <text id="#478e28" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#3F3356">
+                <tspan x="573.209961" y="170">#478E28</tspan>
+            </text>
+            <text id="90º" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#D0C9D6">
+                <tspan x="321.291016" y="170">90º</tspan>
+            </text>
+            <path d="M12,0 L660,0 C666.627417,-1.21743675e-15 672,5.372583 672,12 L672,140 L672,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="url(#linearGradient-35)" fill-rule="nonzero"></path>
+        </g>
+        <g id="Gradient" transform="translate(952.000000, 1928.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-37)" xlink:href="#path-36"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-36"></use>
+            </g>
+            <text id="#f1f4dc" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="24.6298828" y="170">#F1F4DC</tspan>
+            </text>
+            <text id="#A6D24F" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="570.445801" y="170">#A6D24F</tspan>
+            </text>
+            <text id="90º" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#D0C9D6">
+                <tspan x="321.291016" y="170">90º</tspan>
+            </text>
+            <path d="M12,0 L660,0 C666.627417,-1.21743675e-15 672,5.372583 672,12 L672,140 L672,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="url(#linearGradient-38)" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(376.000000, 1579.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-40)" xlink:href="#path-39"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-39"></use>
+            </g>
+            <text id="#929393" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="76.2250977" y="170">#929393</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#929393" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(632.000000, 1579.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-42)" xlink:href="#path-41"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-41"></use>
+            </g>
+            <text id="#b4b4b4" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="74.6086426" y="170">#B4B4B4</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#B4B4B4" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(888.000000, 1579.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-44)" xlink:href="#path-43"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-43"></use>
+            </g>
+            <text id="#e5e5e5" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="76.9121094" y="170">#E5E5E5</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#E5E5E5" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(1144.000000, 1579.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-46)" xlink:href="#path-45"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-45"></use>
+            </g>
+            <text id="#edf8e5" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="76.6733398" y="170">#EDF8E5</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#EDF8E5" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(1400.000000, 1579.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-48)" xlink:href="#path-47"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-47"></use>
+            </g>
+            <text id="#FFFFFF" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#3F3356">
+                <tspan x="78.8669434" y="170">#FFFFFF</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(889.000000, 976.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-50)" xlink:href="#path-49"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-49"></use>
+            </g>
+            <text id="#4BA2CE" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="74.8701172" y="170">#4BA2CE</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#4BA2CE" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(1145.000000, 976.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-52)" xlink:href="#path-51"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-51"></use>
+            </g>
+            <text id="#8FBDD9" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="74.751709" y="170">#8FBDD9</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#8FBDD9" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(1401.000000, 976.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-54)" xlink:href="#path-53"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-53"></use>
+            </g>
+            <text id="#daecf7" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="75.463623" y="170">#DAECF7</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#DAECF7" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color-Copy-3" transform="translate(888.000000, 1230.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-56)" xlink:href="#path-55"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-55"></use>
+            </g>
+            <text id="#4BA2CE" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="75.8701172" y="170">#4BA2CE</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#C2D24F" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color-Copy-2" transform="translate(1144.000000, 1230.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-58)" xlink:href="#path-57"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-57"></use>
+            </g>
+            <text id="#D4DF83" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="74.5505371" y="170">#D4DF83</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#D4DF83" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color-Copy" transform="translate(1400.000000, 1230.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-60)" xlink:href="#path-59"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-59"></use>
+            </g>
+            <text id="#daecf7" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="75.463623" y="170">#DAECF7</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#F1F3DD" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(890.000000, 373.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-62)" xlink:href="#path-61"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-61"></use>
+            </g>
+            <text id="#6979F8" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="76.717041" y="170">#6979F8</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#7EBC44" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(1146.000000, 373.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-64)" xlink:href="#path-63"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-63"></use>
+            </g>
+            <text id="#9cd261" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="76.1503906" y="170">#9CD261</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#9CD261" fill-rule="nonzero"></path>
+        </g>
+        <g id="Color" transform="translate(1402.000000, 373.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-66)" xlink:href="#path-65"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-65"></use>
+            </g>
+            <text id="#dfefd3" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400" line-spacing="22" fill="#343635">
+                <tspan x="76.0632324" y="170">#DFEFD3</tspan>
+            </text>
+            <path d="M12,0 L218,0 C224.627417,-1.21743675e-15 230,5.372583 230,12 L230,140 L230,140 L0,140 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle" fill="#DFEFD3" fill-rule="nonzero"></path>
+        </g>
+        <g id="Title" transform="translate(120.000000, 184.000000)" fill="#7DBC44">
+            <text id="Colores" font-family="SFProText-Bold, SF Pro Text" font-size="30" font-weight="bold" line-spacing="30">
+                <tspan x="20" y="29">COLORES</tspan>
+            </text>
+            <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="4" height="30"></rect>
+        </g>
+        <g id="Title" transform="translate(120.000000, 294.000000)">
+            <text id="Colores-primarios" font-family="SFProText-Semibold, SF Pro Text" font-size="20" font-weight="500" line-spacing="30" fill="#343635">
+                <tspan x="0" y="19">COLORES PRIMARIOS</tspan>
+            </text>
+            <g id="Group" transform="translate(0.000000, 46.000000)" fill="#E5E5E5" fill-rule="nonzero">
+                <g id="Components/Divider">
+                    <rect x="0" y="0" width="672" height="1"></rect>
+                </g>
+            </g>
+        </g>
+        <g id="Title" transform="translate(120.000000, 643.000000)">
+            <text id="Colores-semánticos" font-family="SFProText-Semibold, SF Pro Text" font-size="20" font-weight="500" line-spacing="30" fill="#343635">
+                <tspan x="0" y="19">COLORES SEMÁNTICOS</tspan>
+            </text>
+            <g id="Group" transform="translate(0.000000, 46.000000)" fill="#E5E5E5" fill-rule="nonzero">
+                <g id="Components/Divider">
+                    <rect x="0" y="0" width="1511" height="1"></rect>
+                </g>
+            </g>
+        </g>
+        <g id="Title" transform="translate(120.000000, 1500.000000)">
+            <text id="neutral-colors" font-family="SFProText-Semibold, SF Pro Text" font-size="20" font-weight="500" line-spacing="30" fill="#1A051D">
+                <tspan x="0" y="19">NEUTRAL COLORS</tspan>
+            </text>
+            <g id="Group" transform="translate(0.000000, 46.000000)" fill="#E5E5E5" fill-rule="nonzero">
+                <g id="Components/Divider">
+                    <rect x="0" y="0" width="1510" height="1"></rect>
+                </g>
+            </g>
+        </g>
+        <g id="Title" transform="translate(120.000000, 1849.000000)">
+            <text id="gradient" font-family="SFProText-Semibold, SF Pro Text" font-size="20" font-weight="500" line-spacing="30" fill="#1A051D">
+                <tspan x="0" y="19">GRADIENT</tspan>
+            </text>
+            <g id="Group" transform="translate(0.000000, 46.000000)" fill="#E5E5E5" fill-rule="nonzero">
+                <g id="Components/Divider">
+                    <rect x="0" y="0" width="1440" height="1"></rect>
+                </g>
+            </g>
+        </g>
+        <g id="Title" transform="translate(889.000000, 294.000000)">
+            <text id="Colores-enfáticos" font-family="SFProText-Semibold, SF Pro Text" font-size="20" font-weight="500" line-spacing="30" fill="#343635">
+                <tspan x="0" y="19">COLORES ENFÁTICOS</tspan>
+            </text>
+            <g id="Group" transform="translate(0.000000, 46.000000)" fill="#E5E5E5" fill-rule="nonzero">
+                <g id="Components/Divider">
+                    <rect x="0" y="0" width="672" height="1"></rect>
+                </g>
+            </g>
+        </g>
+        <g id="Header">
+            <g id="Frame">
+                <use fill="black" fill-opacity="1" filter="url(#filter-68)" xlink:href="#path-67"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-67"></use>
+            </g>
+            <text id="Sistema:-Client" font-family="SFProText-Light, SF Pro Text" font-size="20" font-weight="300" fill="#8B8989">
+                <tspan x="1419.2832" y="68">Sistema: Client</tspan>
+            </text>
+            <g id="Group" transform="translate(216.000000, 61.000000)">
+                <text id="UI-Style-Guide" font-family="SFProText-Medium, SF Pro Text" font-size="24" font-weight="400" line-spacing="32" fill="#707070">
+                    <tspan x="0" y="23">UI Style Guide</tspan>
+                </text>
+                <g id="Version" transform="translate(177.000000, 1.000000)">
+                    <rect id="Rectangle" fill="#7EBC44" fill-rule="nonzero" x="0" y="0" width="34" height="30" rx="12"></rect>
+                    <text id="V1" font-family="SFProText-Semibold, SF Pro Text" font-size="11" font-weight="500" line-spacing="18" fill="#FFFFFF">
+                        <tspan x="10.3989258" y="16">V1</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-4" transform="translate(120.000000, 18.000000)">
+                <g id="Group-2" transform="translate(97.000000, 18.000000)">
+                    <path d="M14.72149,14.2900625 L14.72149,22.93095 L10.2221,22.93095 L10.2221,14.1698725 C10.2221,12.8989525 10.027535,11.9651 9.6392975,11.36891 C9.2537375,10.7724225 8.6272025,10.4743275 7.762965,10.4743275 C6.89843,10.4743275 6.1353425,10.797115 5.46924,11.44269 C4.8031375,12.088265 4.46964,13.03729 4.46964,14.2900625 L4.46964,22.93095 L0,22.93095 L0,6.898675 L4.46964,6.898675 L4.46964,8.7161025 C5.7015875,7.325885 7.112035,6.63033 8.7009825,6.63033 C9.7160525,6.63033 10.6347325,6.9281275 11.4582125,7.5243175 C12.2828825,8.120805 12.903765,8.8452175 13.3211575,9.69934 C13.9363875,8.726515 14.7652225,7.97146 15.8100425,7.43477 C16.852185,6.898675 17.8996825,6.63033 18.9528325,6.63033 C20.84047,6.63033 22.3609925,7.19201 23.5129125,8.3138825 C24.6642375,9.43635 25.241685,11.0607 25.241685,13.1863375 L25.241685,22.93095 L20.74051,22.93095 L20.74051,14.1698725 C20.74051,11.7065725 19.8364075,10.4743275 18.0299875,10.4743275 C17.136595,10.4743275 16.3610125,10.797115 15.7047275,11.44269 C15.0496325,12.088265 14.72149,13.03729 14.72149,14.2900625" id="Fill-16" fill="#333635"></path>
+                    <path d="M39.15457,13.99048 L39.15457,22.93095 L34.68374,22.93095 L34.68374,6.898675 L39.15457,6.898675 L39.15457,8.68665 C40.505815,7.31577 42.025445,6.63033 43.71584,6.63033 C45.4035575,6.63033 46.817575,7.2262225 47.9608675,8.4180075 C49.10297,9.61009 49.6744675,11.1996325 49.6744675,13.1863375 L49.6744675,22.93095 L45.203935,22.93095 L45.203935,13.87148 C45.203935,11.40818 44.2998325,10.175935 42.493115,10.175935 C41.5985325,10.175935 40.818785,10.499615 40.1544675,11.14519 C39.4868775,11.790765 39.15457,12.739195 39.15457,13.99048" id="Fill-18" fill="#333635"></path>
+                    <path d="M62.180475,15.5401575 L62.180475,6.898675 L66.679865,6.898675 L66.679865,22.93095 L62.180475,22.93095 L62.180475,20.81394 C61.06723,22.3838475 59.632685,23.16895 57.873865,23.16895 C56.1147475,23.16895 54.6403375,22.6176825 53.4491475,21.515445 C52.258255,20.41172 51.6617675,18.7787425 51.6617675,16.613835 L51.6617675,6.898675 L56.161455,6.898675 L56.161455,15.6303 C56.161455,18.0933025 57.06407,19.3243575 58.8719775,19.3243575 C59.7662625,19.3243575 60.541845,19.0030575 61.19694,18.355995 C61.8535225,17.7119075 62.180475,16.77389 62.180475,15.5401575" id="Fill-19" fill="#333635"></path>
+                    <path d="M73.6660575,10.1167325 L73.6660575,17.2989775 C73.6660575,17.914505 73.824625,18.39705 74.1432475,18.7430425 C74.4603825,19.0905225 74.8382075,19.26575 75.27583,19.26575 C76.1097225,19.26575 76.8153925,18.8882225 77.3913525,18.1331675 L79.06122,21.26257 C77.6704075,22.5343825 76.2031375,23.16895 74.6644675,23.16895 C73.12431,23.16895 71.82364,22.6629025 70.76097,21.64932 C69.6985975,20.636035 69.16756,19.254445 69.16756,17.5066325 L69.16756,10.1167325 L65.72013,10.1167325 L65.72013,6.898675 L69.16756,6.898675 L69.16756,2.1 L73.6660575,2.1 L73.6660575,6.898675 L77.5404,6.898675 L77.5404,10.1167325 L73.6660575,10.1167325" id="Fill-20" fill="#333635"></path>
+                    <path d="M82.9206875,14.91392 C82.9206875,16.2267875 83.2943475,17.2936225 84.0398825,18.1194825 C84.7836325,18.9429625 85.73831,19.3558925 86.8994525,19.3558925 C88.0632725,19.3558925 89.014975,18.9429625 89.7619975,18.1194825 C90.5057475,17.2936225 90.87792,16.2267875 90.87792,14.91392 C90.87792,13.6034325 90.5057475,12.5312425 89.7619975,11.695565 C89.014975,10.8622675 88.0632725,10.4439825 86.8994525,10.4439825 C85.73831,10.4439825 84.7836325,10.8622675 84.0398825,11.695565 C83.2943475,12.5312425 82.9206875,13.6034325 82.9206875,14.91392 Z M95.3776075,14.91392 C95.3776075,17.238585 94.5731675,19.197325 92.9648825,20.784785 C91.3554075,22.375815 89.333895,23.16895 86.8994525,23.16895 C84.4662,23.16895 82.4446875,22.375815 80.8367,20.784785 C79.2269275,19.197325 78.4224875,17.238585 78.4224875,14.91392 C78.4224875,12.58985 79.2269275,10.62873 80.8367,9.0284775 C82.4446875,7.4297125 84.4662,6.63033 86.8994525,6.63033 C89.333895,6.63033 91.3554075,7.4297125 92.9648825,9.0284775 C94.5731675,10.62873 95.3776075,12.58985 95.3776075,14.91392 L95.3776075,14.91392 Z" id="Fill-21" fill="#333635"></path>
+                    <path d="M108.298925,17.9389 C108.298925,19.518625 107.719097,20.784785 106.556467,21.7382725 C105.394135,22.69295 103.920022,23.16895 102.130857,23.16895 C100.938477,23.16895 99.6979025,22.9556425 98.4055625,22.52873 C97.1144125,22.102115 95.95208,21.470225 94.91916,20.636035 L96.8859325,17.8350725 C98.5560975,19.1262225 100.33366,19.7715 102.21981,19.7715 C102.79577,19.7715 103.252432,19.6581525 103.591582,19.429375 C103.928055,19.20149 104.09763,18.8977425 104.09763,18.520215 C104.09763,18.1426875 103.864985,17.796695 103.397612,17.4768825 C102.929645,17.15945 102.254022,16.861355 101.370745,16.5823 C100.486872,16.3059225 99.81006,16.06822 99.34358,15.8685975 C98.8773975,15.6698675 98.34517,15.3812925 97.7516575,15.003765 C96.5384525,14.2490075 95.9327425,13.1313 95.9327425,11.6512375 C95.9327425,10.171175 96.5289325,8.96511 97.72161,8.0300675 C98.91161,7.09681 100.451767,6.63033 102.34,6.63033 C104.22615,6.63033 106.11349,7.266385 108.001127,8.5376025 L106.33245,11.5173625 C104.94134,10.563875 103.55618,10.086685 102.176077,10.086685 C100.794785,10.086685 100.10399,10.4648075 100.10399,11.21897 C100.10399,11.63666 100.32295,11.9651 100.760572,12.2028025 C101.197897,12.4408025 101.921715,12.720155 102.935,13.03729 C103.949772,13.354425 104.669425,13.5980775 105.09604,13.7676525 C105.522655,13.93693 106.034057,14.1996225 106.630247,14.556325 C107.743492,15.232245 108.298925,16.3606625 108.298925,17.9389" id="Fill-22" fill="#333635"></path>
+                    <path d="M110.347808,22.40854 C109.84057,21.9024925 109.587695,21.2813125 109.587695,20.545595 C109.587695,19.8122575 109.84057,19.1916725 110.347808,18.685625 C110.854153,18.1769 111.47444,17.925215 112.209265,17.925215 C112.943793,17.925215 113.565865,18.1769 114.071913,18.685625 C114.579448,19.1916725 114.831133,19.8122575 114.831133,20.545595 C114.831133,21.2813125 114.579448,21.9024925 114.071913,22.40854 C113.565865,22.917265 112.943793,23.16895 112.209265,23.16895 C111.47444,23.16895 110.854153,22.917265 110.347808,22.40854" id="Fill-23" fill="#7DBC44"></path>
+                    <path d="M123.799865,19.2053575 C125.288257,19.2053575 126.629685,18.4610125 127.822362,16.9705375 L130.474277,19.950595 C128.407545,22.0964625 126.17451,23.16895 123.770115,23.16895 C121.36572,23.16895 119.3332,22.40854 117.675827,20.8903975 C116.01548,19.36928 115.186645,17.3834675 115.186645,14.929985 C115.186645,12.476205 116.02619,10.4796825 117.705875,8.9398225 C119.382585,7.4005575 121.373752,6.63033 123.679675,6.63033 C124.831297,6.63033 125.99958,6.8692225 127.180655,7.344925 C128.362325,7.8224125 129.40179,8.5274875 130.296372,9.4610425 L127.971707,12.501195 C127.454057,11.8856675 126.822465,11.40818 126.078715,11.0699225 C125.33437,10.732855 124.593297,10.563875 123.85877,10.563875 C122.68662,10.563875 121.6775,10.947055 120.83498,11.7107375 C119.989782,12.476205 119.567332,13.5391725 119.567332,14.900235 C119.567332,16.2607025 119.989782,17.3180175 120.83498,18.0730725 C121.6775,18.82783 122.66639,19.2053575 123.799865,19.2053575" id="Fill-24" fill="#7DBC44"></path>
+                    <path d="M134.973965,14.91392 C134.973965,16.2267875 135.347328,17.2936225 136.092268,18.1194825 C136.836315,18.9429625 137.789803,19.3558925 138.952433,19.3558925 C140.113278,19.3558925 141.068253,18.9429625 141.812003,18.1194825 C142.557538,17.2936225 142.9309,16.2267875 142.9309,14.91392 C142.9309,13.6034325 142.557538,12.5312425 141.812003,11.695565 C141.068253,10.8622675 140.113278,10.4439825 138.952433,10.4439825 C137.789803,10.4439825 136.836315,10.8622675 136.092268,11.695565 C135.347328,12.5312425 134.973965,13.6034325 134.973965,14.91392 Z M147.43029,14.91392 C147.43029,17.238585 146.626445,19.197325 145.016673,20.784785 C143.406603,22.375815 141.386578,23.16895 138.952433,23.16895 C136.51918,23.16895 134.497965,22.375815 132.886705,20.784785 C131.27842,19.197325 130.474278,17.238585 130.474278,14.91392 C130.474278,12.58985 131.27842,10.62873 132.886705,9.0284775 C134.497965,7.4297125 136.51918,6.63033 138.952433,6.63033 C141.386578,6.63033 143.406603,7.4297125 145.016673,9.0284775 C146.626445,10.62873 147.43029,12.58985 147.43029,14.91392 L147.43029,14.91392 Z" id="Fill-25" fill="#7DBC44"></path>
+                    <path d="M163.565797,14.2900625 L163.565797,22.93095 L159.066408,22.93095 L159.066408,14.1698725 C159.066408,12.8989525 158.872437,11.9651 158.483902,11.36891 C158.098045,10.7724225 157.47151,10.4743275 156.607272,10.4743275 C155.743035,10.4743275 154.97846,10.797115 154.313845,11.44269 C153.647742,12.088265 153.313948,13.03729 153.313948,14.2900625 L153.313948,22.93095 L148.844605,22.93095 L148.844605,6.898675 L153.313948,6.898675 L153.313948,8.7161025 C154.545002,7.325885 155.956343,6.63033 157.547075,6.63033 C158.56036,6.63033 159.479337,6.9281275 160.302818,7.5243175 C161.127488,8.120805 161.746882,8.8452175 162.165465,9.69934 C162.780695,8.726515 163.609827,7.97146 164.654648,7.43477 C165.69679,6.898675 166.744288,6.63033 167.798925,6.63033 C169.685968,6.63033 171.204408,7.19201 172.35722,8.3138825 C173.508842,9.43635 174.085695,11.0607 174.085695,13.1863375 L174.085695,22.93095 L169.586305,22.93095 L169.586305,14.1698725 C169.586305,11.7065725 168.682203,10.4743275 166.872808,10.4743275 C165.979713,10.4743275 165.205915,10.797115 164.549332,11.44269 C163.894238,12.088265 163.565797,13.03729 163.565797,14.2900625" id="Fill-26" fill="#7DBC44"></path>
+                    <path d="M27.771625,22.93095 L32.2409675,22.93095 L32.2409675,6.898675 L27.771625,6.898675 L27.771625,22.93095 Z M28.1437975,4.85723 C27.6374525,4.3499925 27.3833875,3.729705 27.3833875,2.9945825 C27.3833875,2.2597575 27.6374525,1.6385775 28.1437975,1.1316375 C28.6495475,0.624995 29.27043,0.37212 30.006445,0.37212 C30.740675,0.37212 31.3615575,0.624995 31.8690925,1.1316375 C32.37514,1.6385775 32.6295025,2.2597575 32.6295025,2.9945825 C32.6295025,3.729705 32.37514,4.3499925 31.8690925,4.85723 C31.3615575,5.3638725 30.740675,5.617045 30.006445,5.617045 C29.27043,5.617045 28.6495475,5.3638725 28.1437975,4.85723 L28.1437975,4.85723 Z" id="Fill-17" fill="#333635"></path>
+                </g>
+                <g id="Group-3">
+                    <path d="M52.9278,42.7703 C51.9724,43.439675 50.837225,43.703175 49.5244,43.566325 C48.213275,43.427775 47.2345,42.8893 46.5936,41.950475 C45.948875,41.012925 45.694725,39.9228 45.823925,38.68095 C45.956525,37.43825 46.46865,36.4582 47.355625,35.738675 C48.246425,35.02 49.325075,34.725475 50.596675,34.86105 C51.867,34.99535 52.877225,35.5589 53.62735,36.551275 C54.3796,37.543225 54.690275,38.6614 54.559375,39.90325 C54.428475,41.144675 53.8815,42.10135 52.9278,42.7703 Z M59.7584,34.844475 C59.035475,33.312775 57.944925,32.063275 56.49525,31.0964 C55.04175,30.1291 53.271625,29.53495 51.18105,29.314375 C48.160575,28.9952 45.56,29.640775 43.377625,31.251525 C41.197375,32.860575 39.947025,35.16195 39.6304,38.154375 C39.3142,41.14595 39.986125,43.64835 41.64065,45.66455 C43.2956,47.681175 45.5073,48.833775 48.27405,49.127025 C50.3642,49.3476 52.37275,48.94725 54.309475,47.923425 C53.8577,50.01825 53.068475,51.6239 51.93755,52.745475 C50.8062,53.866625 49.32295,54.331575 47.48865,54.138625 C46.728325,54.0583 45.9391,53.7693 45.124375,53.288625 L41.2675,57.67675 C41.83615,58.04395 42.572675,58.4273 43.4792,58.82935 C44.7083,59.3725 46.013475,59.71845 47.39855,59.865075 C50.7008,60.212725 53.631175,59.32575 56.1986,57.1999 C57.452775,56.13315 58.519525,54.612925 59.39885,52.635825 C60.278175,50.658725 60.860425,48.316125 61.1456,45.606325 C61.591,41.40265 61.1303,37.8148 59.7584,34.844475 L59.7584,34.844475 Z" id="Fill-28" fill="#333635"></path>
+                    <path d="M30.05855,42.7703 C29.10315,43.439675 27.9701,43.703175 26.657275,43.566325 C25.344025,43.427775 24.367375,42.8893 23.72435,41.950475 C23.08175,41.012925 22.8259,39.9228 22.9568,38.68095 C23.0877,37.43825 23.5977,36.4582 24.4885,35.738675 C25.375475,35.02 26.45625,34.725475 27.72785,34.86105 C28.99775,34.99535 30.00585,35.5589 30.758525,36.551275 C31.51035,37.543225 31.819325,38.6614 31.690125,39.90325 C31.557525,41.144675 31.01395,42.10135 30.05855,42.7703 Z M36.89085,34.844475 C36.166225,33.312775 35.078225,32.063275 33.626425,31.0964 C32.172925,30.1291 30.400675,29.53495 28.313925,29.314375 C25.29345,28.9952 22.691175,29.640775 20.5105,31.251525 C18.326425,32.860575 17.077775,35.16195 16.76115,38.154375 C16.444525,41.14595 17.11475,43.64835 18.771825,45.66455 C20.428475,47.681175 22.63805,48.833775 25.406925,49.127025 C27.49325,49.3476 29.505625,48.94725 31.4398,47.923425 C30.991,50.01825 30.20135,51.6239 29.0683,52.745475 C27.934825,53.866625 26.454125,54.331575 24.617275,54.138625 C23.859075,54.0583 23.070275,53.7693 22.255125,53.288625 L18.4008,57.67675 C18.967325,58.04395 19.70555,58.4273 20.612075,58.82935 C21.83905,59.3725 23.14465,59.71845 24.5276,59.865075 C27.829425,60.212725 30.76405,59.32575 33.32765,57.1999 C34.581825,56.13315 35.648575,54.612925 36.5279,52.635825 C37.408925,50.658725 37.992875,48.316125 38.278475,45.606325 C38.723875,41.40265 38.2585,37.8148 36.89085,34.844475 L36.89085,34.844475 Z" id="Fill-27" fill="#333635"></path>
+                    <path d="M68.91375,43.97305 C68.91375,60.742275 55.3197,74.338875 38.55005,74.338875 C21.780825,74.338875 8.185925,60.742275 8.185925,43.97305 C8.185925,27.200425 21.780825,13.60595 38.55005,13.60595 C55.3197,13.60595 68.91375,27.200425 68.91375,43.97305 Z M69.4807,17.84575 L76.8264,25.197825 L83.125325,18.891675 C83.125325,18.891675 78.948425,8.469825 64.22855,-6.03961325e-15 L57.929625,6.299775 L65.283825,13.64505 L65.283825,13.648875 L63.69135,15.244325 C56.936825,9.4571 48.186075,5.942775 38.59085,5.942775 C17.2771,5.9432 8.45545856e-14,23.219875 8.45545856e-14,44.539575 C8.45545856e-14,65.8512 17.2771,83.13085 38.59085,83.13085 C59.91055,83.13085 77.188075,65.8512 77.188075,44.539575 C77.188075,34.940525 73.673325,26.1902 67.89035,19.44205 L69.4807,17.84575 L69.4807,17.84575 Z" id="Fill-30" fill="#7DBC44"></path>
+                </g>
+            </g>
+        </g>
+        <g id="Labels" transform="translate(145.000000, 448.000000)" font-family="SFProText-Medium, SF Pro Text" font-size="17" font-weight="400">
+            <text id="RGB-126-188-68-HSB-9" fill="#FFFFFF">
+                <tspan x="0" y="20">RGB   126  188  68</tspan>
+                <tspan x="0" y="40">HSB   91°  64°  74° </tspan>
+            </text>
+            <text id="RGB-126-188-68-HSB-9-Copy" fill="#FFFFFF">
+                <tspan x="771" y="16">RGB   126  188  68</tspan>
+                <tspan x="771" y="36">HSB   91°  64°  74° </tspan>
+            </text>
+            <text id="RGB-245-118-0-HSB-29" fill="#FFFFFF">
+                <tspan x="770" y="365">RGB   245  118  0</tspan>
+                <tspan x="770" y="385">HSB   29°  100°  96° </tspan>
+            </text>
+            <text id="RGB-75-162-206-HSB-2" fill="#FFFFFF">
+                <tspan x="770" y="619">RGB   75  162  206</tspan>
+                <tspan x="770" y="639">HSB   200°  64°  81° </tspan>
+            </text>
+            <text id="RGB-194-210-79-HSB-6" fill="#FFFFFF">
+                <tspan x="770" y="871">RGB   194  210  79</tspan>
+                <tspan x="770" y="891">HSB   67°  62°  82° </tspan>
+            </text>
+            <text id="RGB-212-223-131-HSB" fill="#FFFFFF">
+                <tspan x="1019" y="871">RGB   212  223  131</tspan>
+                <tspan x="1019" y="891">HSB   67°  41°  87° </tspan>
+            </text>
+            <text id="RGB-241-243-221-HSB" fill="#C2D24F">
+                <tspan x="1276" y="871">RGB   241  243  221</tspan>
+                <tspan x="1276" y="891">HSB   65°  9°  95° </tspan>
+            </text>
+            <text id="RGB-237-248-229-HSB" fill="#BADB75">
+                <tspan x="1019" y="1222">RGB   237  248  229</tspan>
+                <tspan x="1019" y="1242">HSB   95°  8°  97° </tspan>
+            </text>
+            <text id="RGB-143-189-217-HSB" fill="#FFFFFF">
+                <tspan x="1019" y="619">RGB   143  189  217</tspan>
+                <tspan x="1019" y="639">HSB   203°  34°  85° </tspan>
+            </text>
+            <text id="RGB-218-236-247-HSB" fill="#4BA2CE">
+                <tspan x="1276" y="619">RGB   218  236  247</tspan>
+                <tspan x="1276" y="639">HSB   203°  12°  97° </tspan>
+            </text>
+            <text id="RGB-245-168-93-HSB-2" fill="#FFFFFF">
+                <tspan x="1019" y="365">RGB   245  168  93</tspan>
+                <tspan x="1019" y="385">HSB   29°  63°  97° </tspan>
+            </text>
+            <text id="RGB-253-214-194-HSB" fill="#F57600">
+                <tspan x="1276" y="365">RGB   253  214  194</tspan>
+                <tspan x="1276" y="385">HSB   20°  23°  99° </tspan>
+            </text>
+            <text id="RGB-156-210-97-HSB-8" fill="#FFFFFF">
+                <tspan x="1020" y="16">RGB   156  210  97</tspan>
+                <tspan x="1020" y="36">HSB   89°  54°  82° </tspan>
+            </text>
+            <text id="RGB-233-239-211-HSB" fill="#7EBC44">
+                <tspan x="1277" y="16">RGB   233  239  211</tspan>
+                <tspan x="1277" y="36">HSB   94°  12°  94° </tspan>
+            </text>
+            <text id="RGB-255-201-1-HSB-47" fill="#FFFFFF">
+                <tspan x="0" y="365">RGB   255  201  1</tspan>
+                <tspan x="0" y="385">HSB   47°  100°  100° </tspan>
+            </text>
+            <text id="RGB-151-151-151-HSB" fill="#FFFFFF">
+                <tspan x="3" y="619">RGB   151  151  151</tspan>
+                <tspan x="3" y="639">HSB   0°  0°  59° </tspan>
+            </text>
+            <text id="RGB-44-46-46-HSB-180" fill="#FFFFFF">
+                <tspan x="0" y="1222">RGB   44  46  46</tspan>
+                <tspan x="0" y="1242">HSB   180°  4°  18° </tspan>
+            </text>
+            <text id="RGB-146-147-147-HSB" fill="#FFFFFF">
+                <tspan x="252" y="1222">RGB   146  147  147</tspan>
+                <tspan x="252" y="1242">HSB   180°  1°  58° </tspan>
+            </text>
+            <text id="RGB-180-180-180-HSB" fill="#FFFFFF">
+                <tspan x="512" y="1222">RGB   180  180  180</tspan>
+                <tspan x="512" y="1242">HSB   0°  0°  71° </tspan>
+            </text>
+            <text id="RGB-229-229-229-HSB" fill="#929393">
+                <tspan x="770" y="1222">RGB   229  229  229</tspan>
+                <tspan x="770" y="1242">HSB   0°  0°  90° </tspan>
+            </text>
+            <text id="RGB-239-63-37-HSB-8°" fill="#FFFFFF">
+                <tspan x="3" y="875">RGB   239  63  37</tspan>
+                <tspan x="3" y="895">HSB   8°  85°  94° </tspan>
+            </text>
+            <text id="RGB-250-142-142-HSB" fill="#FFFFFF">
+                <tspan x="252" y="871">RGB   250  142  142</tspan>
+                <tspan x="252" y="891">HSB   0°  43°  98° </tspan>
+            </text>
+            <text id="RGB-255-207-201-HSB" fill="#EF4026">
+                <tspan x="512" y="871">RGB   255  207  201</tspan>
+                <tspan x="512" y="891">HSB   7°  21°  100° </tspan>
+            </text>
+            <text id="RGB-177-177-177-HSB" fill="#FFFFFF">
+                <tspan x="252" y="619">RGB   177  177  177</tspan>
+                <tspan x="252" y="639">HSB   0°  0°  69° </tspan>
+            </text>
+            <text id="RGB-177-177-177-HSB" fill="#979797">
+                <tspan x="512" y="619">RGB   177  177  177</tspan>
+                <tspan x="512" y="639">HSB   240°  2°  96° </tspan>
+            </text>
+            <text id="RGB-255-220-93-HSB-4" fill="#FFFFFF">
+                <tspan x="252" y="365">RGB   255  220  93</tspan>
+                <tspan x="252" y="385">HSB   47°  64°  100° </tspan>
+            </text>
+            <text id="RGB-253-240-206-HSB" fill="#FFC900">
+                <tspan x="512" y="365">RGB   253  240  206</tspan>
+                <tspan x="512" y="385">HSB   43°   19°  99° </tspan>
+            </text>
+            <text id="RGB-52-54-53-HSB-150" fill="#FFFFFF">
+                <tspan x="253" y="16">RGB   52  54  53</tspan>
+                <tspan x="253" y="36">HSB   150°  4°  21° </tspan>
+            </text>
+            <text id="RGB-255-255-255-HSB" fill="#343635">
+                <tspan x="512" y="16">RGB   255  255  255</tspan>
+                <tspan x="512" y="36">HSB   0°  0°  100° </tspan>
+            </text>
+            <text id="RGB-255-255-255-HSB-Copy" fill="#343635">
+                <tspan x="1288" y="1222">RGB   255  255  255</tspan>
+                <tspan x="1288" y="1242">HSB   0°  0°  100° </tspan>
+            </text>
+        </g>
+    </g>
+</svg>

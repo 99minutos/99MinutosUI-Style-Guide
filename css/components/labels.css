@@ -1,0 +1,56 @@
+/* styles suggested for buttons according to Figma defaults */
+/* TODO: Front-end review */
+/* FIXME: Fix buttons and extra lines of code */
+.primary-label-1 {
+  /* Rectangle */
+  position: absolute;
+  height: 24px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  background: #7EBC44;
+  border-radius: 12px;
+  /* Text */
+  position: absolute;
+  height: 13px;
+  left: 11px;
+  right: 11px;
+  top: 5px;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 13px;
+  /* identical to box height, or 118% */
+  letter-spacing: 0.07px;
+  text-transform: uppercase;
+  color: #FBFBFB;
+}
+
+.primary-label-2 {
+  /* Rectangle */
+  position: absolute;
+  height: 24px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  background: #DFEFD3;
+  mix-blend-mode: normal;
+  opacity: 0.53;
+  border-radius: 12px;
+  /* Text */
+  position: absolute;
+  height: 13px;
+  left: 8px;
+  right: 8px;
+  top: 6px;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 13px;
+  /* identical to box height, or 118% */
+  letter-spacing: 0.07px;
+  text-transform: uppercase;
+  color: #7DBC44;
+}

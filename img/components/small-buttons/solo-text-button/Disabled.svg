@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="11px" viewBox="0 0 51 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Button/S/Text/Disabled</title>
+    <g id="UI-Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03.-Components" transform="translate(-1005.000000, -796.000000)">
+            <g id="Button" transform="translate(120.000000, 294.000000)">
+                <g id="S-Buttons" transform="translate(593.000000, 79.000000)">
+                    <g id="Button/S/Text/Disabled" transform="translate(228.000000, 408.000000)">
+                        <rect id="Frame" opacity="0" fill-rule="nonzero" x="0" y="0" width="180" height="40" rx="6"></rect>
+                        <text id="Text" font-family="Barlow-Medium, Barlow" font-size="14" font-weight="400" line-spacing="18" fill="#B8B6B6">
+                            <tspan x="63.792" y="24">Disabled</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
