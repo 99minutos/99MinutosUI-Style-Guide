@@ -1,0 +1,105 @@
+/* styles suggested for buttons according to Figma defaults */
+/* TODO: Front-end review */
+/* FIXME: Fix buttons and extra lines of code */
+.button-floating-primary {
+  /* Frame */
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: #7EBC44;
+  border-radius: 1rem;
+  /* Icons/Navigation */
+  position: absolute;
+  width: 1.5rem;
+  height: 1.5rem;
+  left: calc(50% - 1.5rem/2);
+  top: calc(50% - 1.5rem/2);
+}
+
+.button-floating-secondary {
+  /* Frame */
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: #DFEFD3;
+  border-radius: 1rem;
+  /* Icons/Navigation */
+  position: absolute;
+  width: 1.5rem;
+  height: 1.5rem;
+  left: calc(50% - 1.5rem/2);
+  top: calc(50% - 1.5rem/2);
+}
+
+.button-floating-white {
+  /* Frame */
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: #FFFFFF;
+  box-shadow: 0rem 0.4375rem 4rem rgba(0, 0, 0, 0.07);
+  border-radius: 1rem;
+  /* Icons/Navigation */
+  position: absolute;
+  width: 1.5rem;
+  height: 1.5rem;
+  left: calc(50% - 1.5rem/2);
+  top: calc(50% - 1.5rem/2);
+}
+
+.button-floating-diabled {
+  /* Frame */
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: #E5E5E5;
+  border-radius: 1rem;
+  /* Icons/Navigation */
+  position: absolute;
+  width: 1.5rem;
+  height: 1.5rem;
+  left: calc(50% - 1.5rem/2);
+  top: calc(50% - 1.5rem/2);
+}
+
+.button-loading {
+  /* Frame */
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: #7EBC44;
+  border-radius: 0.375rem;
+  /* Icons/Navigation */
+  position: absolute;
+  width: 1.5rem;
+  height: 1.5rem;
+  left: calc(50% - 1.5rem/2);
+  top: calc(50% - 1.5rem/2);
+}
+
+.button-loading-dots {
+  /* Frame */
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: #7EBC44;
+  border-radius: 0.375rem;
+  /* Icons/1rem/Loading */
+  position: absolute;
+  width: 1rem;
+  height: 1rem;
+  left: calc(50% - 1rem/2);
+  top: calc(50% - 1rem/2);
+}

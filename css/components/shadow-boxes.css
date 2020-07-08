@@ -8,7 +8,7 @@
   top: 34.07%;
   bottom: 39.56%;
   background: #FFFFFF;
-  box-shadow: 0px 7px 64px rgba(0, 0, 0, 0.07);
+  box-shadow: 0rem 0.4375rem 4rem rgba(0, 0, 0, 0.07);
 }
 
 .shadow-box-2 {
@@ -18,8 +18,8 @@
   top: 34.07%;
   bottom: 39.56%;
   background: #FFFFFF;
-  box-shadow: 0px 3px 10px rgba(102, 104, 103, 0.31);
-  border-radius: 10px;
+  box-shadow: 0rem 0.1875rem 0.625rem rgba(102, 104, 103, 0.31);
+  border-radius: 0.625rem;
 }
 
 .shadow-box-3 {
@@ -29,7 +29,7 @@
   top: 34.07%;
   bottom: 39.56%;
   background: #FFFFFF;
-  box-shadow: 0px 7px 20px rgba(0, 0, 0, 0.08);
+  box-shadow: 0rem 0.4375rem 1.25rem rgba(0, 0, 0, 0.08);
 }
 
 .shadow-box-4 {
@@ -39,9 +39,9 @@
   top: 34.07%;
   bottom: 39.56%;
   background: #FFFFFF;
-  border: 1px solid #ECEBED;
+  border: 0.0625 solid #ECEBED;
   box-sizing: border-box;
-  box-shadow: 0px 7px 64px rgba(0, 0, 0, 0.07);
+  box-shadow: 0rem 0.4375rem 4rem rgba(0, 0, 0, 0.07);
 }
 
 .shadow-box-5 {
@@ -51,7 +51,7 @@
   top: 73.63%;
   bottom: 0%;
   background: #FFFFFF;
-  border: 1px solid #ECEBED;
+  border: 0.0625 solid #ECEBED;
   box-sizing: border-box;
 }
 
@@ -62,7 +62,7 @@
   top: 73.63%;
   bottom: 0%;
   background: #EFEFEF;
-  border-radius: 9px;
+  border-radius: 0.5625rem;
 }
 
 .shadow-box-7 {
@@ -72,7 +72,7 @@
   top: 73.63%;
   bottom: 0%;
   background: #FFFFFF;
-  box-shadow: inset 0px -1px 0px rgba(208, 201, 214, 0.4);
+  box-shadow: inset 0rem -0.0625 0rem rgba(208, 201, 214, 0.4);
 }
 
 .shadow-box-8 {
@@ -82,5 +82,5 @@
   top: 73.63%;
   bottom: 0%;
   background: #FFFFFF;
-  box-shadow: inset 0px 1px 0px rgba(208, 201, 214, 0.4);
+  box-shadow: inset 0rem 0.0625 0rem rgba(208, 201, 214, 0.4);
 }

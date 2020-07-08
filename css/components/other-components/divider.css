@@ -1,0 +1,15 @@
+/* styles suggested for buttons according to Figma defaults */
+/* TODO: Front-end review */
+/* FIXME: Fix buttons and extra lines of code */
+.components-divider {
+  /* Components/Divider */
+  position: relative;
+  width: 343px;
+  height: 1px;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  background: #E5E5E5;
+}

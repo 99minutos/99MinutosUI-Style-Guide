@@ -1,0 +1,275 @@
+/* styles suggested for buttons according to Figma defaults */
+/* TODO: Front-end review */
+/* FIXME: Fix buttons and extra lines of code */
+.primary-button-deafult {
+  /* Frame */
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: #7EBC44;
+  border-radius: 0.375rem;
+  /* Text */
+  position: absolute;
+  height: 1.125rem;
+  left: 37.36%;
+  right: 37.64%;
+  top: 0.625rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+  /* identical to box height, or 129% */
+  text-align: center;
+  color: #FBFBFB;
+}
+
+.primary-button-disabled {
+  /* Frame */
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: #E5E5E5;
+  border-radius: 0.375rem;
+  /* Text */
+  position: absolute;
+  height: 1.125rem;
+  left: 35.56%;
+  right: 35%;
+  top: 0.625rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+  /* identical to box height, or 129% */
+  text-align: center;
+  color: #B8B6B6;
+}
+
+.secondary-button-default {
+  * Frame */ position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: #DFEFD3;
+  border-radius: 0.375rem;
+  /* Text */
+  position: absolute;
+  height: 1.125rem;
+  left: 37.36%;
+  right: 37.64%;
+  top: calc(50% - 1.125rem/2 - 0.0625rem);
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+  /* identical to box height, or 129% */
+  text-align: center;
+  color: #7DBC44;
+}
+
+.secondary-button-disabled {
+  /* Frame */
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: #E5E5E5;
+  border-radius: 0.375rem;
+  /* Text */
+  position: absolute;
+  height: 1.125rem;
+  left: 35.56%;
+  right: 35%;
+  top: 0.625rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+  /* identical to box height, or 129% */
+  text-align: center;
+  color: #B8B6B6;
+}
+
+.ghost-button-default {
+  /* Frame */
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  border: 0.125rem solid #7DBC44;
+  box-sizing: border-box;
+  border-radius: 1.25rem;
+  /* Text */
+  position: absolute;
+  height: 1.125rem;
+  left: 37.36%;
+  right: 37.64%;
+  top: 0.625rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+  /* identical to box height, or 129% */
+  text-align: center;
+  color: #7DBC44
+}
+
+.ghost-button-diabled {
+  /* Frame */
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  border: 0.125rem solid #ECEBED;
+  box-sizing: border-box;
+  border-radius: 1.25rem;
+  /* Text */
+  position: absolute;
+  height: 1.125rem;
+  left: 35.14%;
+  right: 35.42%;
+  top: 0.6875rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+  /* identical to box height, or 129% */
+  text-align: center;
+  color: #ECEBED;
+}
+
+.button-lefticon {
+  /* Frame */
+  position: absolute;
+  height: 2.5rem;
+  left: 0rem;
+  right: 0rem;
+  top: calc(50% - 2.5rem/2);
+  background: #7EBC44;
+  border-radius: 1.25rem;
+  /* Text */
+  position: absolute;
+  height: 1.125rem;
+  left: 27.5%;
+  right: 0%;
+  top: 0rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+  /* identical to box height, or 129% */
+  text-transform: uppercase;
+  color: #FBFBFB;
+  /* Icons */
+  position: absolute;
+  width: 0.875rem;
+  height: 0.875rem;
+  left: 0rem;
+  top: 0.1875rem;
+}
+
+.button-lefticon-disabled {
+  /* Frame */
+  position: absolute;
+  left: 55.88%;
+  right: 0%;
+  top: 71.43%;
+  bottom: 19.64%;
+  background: #E5E5E5;
+  border-radius: 1.25rem;
+  /* Text */
+  position: absolute;
+  width: 4rem;
+  height: 1.125rem;
+  left: 1.25rem;
+  top: 0rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+  /* identical to box height, or 129% */
+  text-transform: uppercase;
+  color: #B8B6B6;
+  /* Icons */
+  position: absolute;
+  width: 0.875rem;
+  height: 0.875rem;
+  left: 0rem;
+  top: 0.1875rem;
+}
+
+.text-button {
+  /* Frame */
+  position: absolute;
+  left: 55.88%;
+  right: 0%;
+  top: 71.43%;
+  bottom: 19.64%;
+  border-radius: 1.25rem;
+  /* Text */
+  position: absolute;
+  width: 4rem;
+  height: 1.125rem;
+  left: 1.25rem;
+  top: 0rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+  /* identical to box height, or 129% */
+  text-transform: uppercase;
+  color: #7DBC44;
+  /* Icons */
+  position: absolute;
+  width: 0.875rem;
+  height: 0.875rem;
+  left: 0rem;
+  top: 0.1875rem;
+}
+
+.text-button-disabled {
+  /* Frame */
+  position: absolute;
+  left: 55.88%;
+  right: 0%;
+  top: 71.43%;
+  bottom: 19.64%;
+  border-radius: 1.25rem;
+  /* Text */
+  position: absolute;
+  width: 4rem;
+  height: 1.125rem;
+  left: 1.25rem;
+  top: 0rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.125rem;
+  /* identical to box height, or 129% */
+  text-transform: uppercase;
+  color: #B8B6B6;
+  /* Icons */
+  position: absolute;
+  width: 0.875rem;
+  height: 0.875rem;
+  left: 0rem;
+  top: 0.1875rem;
+}

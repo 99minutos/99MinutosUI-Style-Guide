@@ -4,25 +4,25 @@
 .primary-label-1 {
   /* Rectangle */
   position: absolute;
-  height: 24px;
-  left: 0px;
-  right: 0px;
-  top: 0px;
+  height: 1.5rem;
+  left: 0rem;
+  right: 0rem;
+  top: 0rem;
   background: #7EBC44;
-  border-radius: 12px;
+  border-radius: 0.75rem;
   /* Text */
   position: absolute;
-  height: 13px;
-  left: 11px;
-  right: 11px;
-  top: 5px;
+  height: 0.8125rem;
+  left: 0.6875rem;
+  right: 0.6875rem;
+  top: 0.3125rem;
   font-family: Barlow;
   font-style: normal;
   font-weight: 500;
-  font-size: 11px;
-  line-height: 13px;
+  font-size: 0.6875rem;
+  line-height: 0.8125rem;
   /* identical to box height, or 118% */
-  letter-spacing: 0.07px;
+  letter-spacing: 0.004375rem;
   text-transform: uppercase;
   color: #FBFBFB;
 }
@@ -30,27 +30,236 @@
 .primary-label-2 {
   /* Rectangle */
   position: absolute;
-  height: 24px;
-  left: 0px;
-  right: 0px;
-  top: 0px;
+  height: 1.5rem;
+  left: 0rem;
+  right: 0rem;
+  top: 0rem;
   background: #DFEFD3;
   mix-blend-mode: normal;
   opacity: 0.53;
-  border-radius: 12px;
+  border-radius: 0.75rem;
   /* Text */
   position: absolute;
-  height: 13px;
-  left: 8px;
-  right: 8px;
-  top: 6px;
+  height: 0.8125rem;
+  left: 0.5rem;
+  right: 0.5rem;
+  top: 0.375rem;
   font-family: Barlow;
   font-style: normal;
   font-weight: 500;
-  font-size: 11px;
-  line-height: 13px;
+  font-size: 0.6875rem;
+  line-height: 0.8125rem;
   /* identical to box height, or 118% */
-  letter-spacing: 0.07px;
+  letter-spacing: 0.004375rem;
   text-transform: uppercase;
   color: #7DBC44;
 }
+
+.info-label {
+  /* Rectangle */
+  position: absolute;
+  height: 1.5rem;
+  left: 0rem;
+  right: 0rem;
+  top: 0rem;
+  background: #0084F4;
+  border-radius: 0.75rem;
+  /* Text */
+  position: absolute;
+  height: 0.8125rem;
+  left: 0.875rem;
+  right: 0.8125rem;
+  top: 0.3125rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.6875rem;
+  line-height: 0.8125rem;
+  /* identical to box height, or 118% */
+  letter-spacing: 0.004375rem;
+  text-transform: uppercase;
+  color: #FBFBFB;
+}
+
+.info-label-2 {
+  /* Rectangle */
+  position: absolute;
+  height: 1.5rem;
+  left: 0rem;
+  right: 0rem;
+  top: 0rem;
+  background: #D5E9FA;
+  border-radius: 0.75rem;
+  /* Text */
+  position: absolute;
+  height: 0.8125rem;
+  left: 0.875rem;
+  right: 0.8125rem;
+  top: 0.3125rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.6875rem;
+  line-height: 0.8125rem;
+  /* identical to box height, or 118% */
+  letter-spacing: 0.004375rem;
+  text-transform: uppercase;
+  color: #0084F4;
+}
+
+.error-label {
+  /* Rectangle */
+  position: absolute;
+  height: 1.5rem;
+  left: 0rem;
+  right: 0rem;
+  top: 0rem;
+  background: #EF4026;
+  border-radius: 0.75rem;
+  /* Text */
+  position: absolute;
+  height: 0.8125rem;
+  left: 10rem;
+  right: 10rem;
+  top: 0.3125rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.6875rem;
+  line-height: 0.8125rem;
+  /* identical to box height, or 118% */
+  letter-spacing: 0.004375rem;
+  text-transform: uppercase;
+  color: #FBFBFB;
+}
+
+.error-label-2 {
+  /* Rectangle */
+  position: absolute;
+  height: 1.5rem;
+  left: 0rem;
+  right: 0rem;
+  top: 0rem;
+  background: #FFCFC9;
+  border-radius: 0.75rem;
+  /* Text */
+  position: absolute;
+  height: 0.8125rem;
+  left: 10rem;
+  right: 10rem;
+  top: 0.3125rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.6875rem;
+  line-height: 0.8125rem;
+  /* identical to box height, or 118% */
+  letter-spacing: 0.004375rem;
+  text-transform: uppercase;
+  color: #FF647C;
+}
+
+.succeed-label {
+  position: absolute;
+  height: 1.5rem;
+  left: 0rem;
+  right: 0rem;
+  top: 0rem;
+  background: #4BA2CE;
+  border-radius: 0.75rem;
+  /* Text */
+  position: absolute;
+  height: 0.8125rem;
+  left: 0.6875rem;
+  right: 0.6875rem;
+  top: 0.3125rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.6875rem;
+  line-height: 0.8125rem;
+  /* identical to box height, or 118% */
+  letter-spacing: 0.004375rem;
+  text-transform: uppercase;
+  color: #FBFBFB;
+}
+
+.succeed-label-2 {
+  /* Rectangle */
+  position: absolute;
+  height: 1.5rem;
+  left: 0rem;
+  right: 0rem;
+  top: 0rem;
+  background: #D5F2EA;
+  border-radius: 0.75rem;
+  /* Text */
+  position: absolute;
+  height: 0.8125rem;
+  left: 0.6875rem;
+  right: 0.6875rem;
+  top: 0.3125rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.6875rem;
+  line-height: 0.8125rem;
+  /* identical to box height, or 118% */
+  letter-spacing: 0.004375rem;
+  text-transform: uppercase;
+  color: #00C48C;
+}
+
+.warning-button {
+  /* Rectangle */
+  position: absolute;
+  height: 1.5rem;
+  left: 0rem;
+  right: 0rem;
+  top: 0rem;
+  background: #FFC900;
+  border-radius: 0.75rem;
+  /* Text */
+  position: absolute;
+  height: 0.8125rem;
+  left: 0.75rem;
+  right: 0.6875rem;
+  top: 0.3125rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.6875rem;
+  line-height: 0.8125rem;
+  /* identical to box height, or 118% */
+  letter-spacing: 0.004375rem;
+  text-transform: uppercase;
+  color: #FBFBFB
+}
+
+.warning-button-2 {
+  /* Rectangle */
+  position: absolute;
+  height: 1.5rem;
+  left: 0rem;
+  right: 0rem;
+  top: 0rem;
+  background: #FDF0CE;
+  border-radius: 0.75rem;
+  /* Text */
+  position: absolute;
+  height: 0.8125rem;
+  left: 0.75rem;
+  right: 0.6875rem;
+  top: 0.3125rem;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.6875rem;
+  line-height: 0.8125rem;
+  /* identical to box height, or 118% */
+  letter-spacing: 0.004375rem;
+  text-transform: uppercase;
+  color: #FFCF5C;
+}
+
+/* Buttons may change in background color and text color but never shape or alignment */
