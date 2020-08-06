@@ -10,14 +10,14 @@ This project exists due to the need to standardize the use of components inside 
 This holds the standard styles for your most common inputs, buttons, and other interface elements. Every style has it's corresponding CSS formating so you can recycle code and save time. Also, mantain unity among every screen part of this system.
 
 You will find under ```components``` folder:
-🗺️ System Navbar
-🔆 Lightboxes
-🖱️ Buttons (Big, small & others)
-🔣 Input forms 
-🔘 Multi-select
-📑 Other components (Checkboxes, selector, tags, switches, paginations, etc.)
-🖼️ Frames
-🧰 Tooltips
+🗺️ System Navbar <br />
+🔆 Lightboxes <br />
+🖱️ Buttons (Big, small & others) <br />
+🔣 Input forms <br />
+🔘 Multi-select <br />
+📑 Other components (Checkboxes, selector, tags, switches, paginations, etc.) <br />
+🖼️ Frames <br />
+🧰 Tooltips <br />
 
 #### CSS 🖌️
 
@@ -38,10 +38,10 @@ I'll leave our fantastic gal in front-end to explain you whatever is going on in
 #### Resources 🧮
 You will find in this folder all regarding to additional elements like illustrations or mockups:
 
-📊 Graphs
-🔣 Icons
-🎴 Illustrations
-📦 Logos
+📊 Graphs <br />
+🔣 Icons <br />
+🎴 Illustrations <br />
+📦 Logos <br />
 
 ### Future of this project:
 
