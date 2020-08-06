@@ -9,7 +9,7 @@ This project exists due to the need to standardize the use of components inside 
 
 This holds the standard styles for your most common inputs, buttons, and other interface elements. Every style has it's corresponding CSS formating so you can recycle code and save time. Also, mantain unity among every screen part of this system.
 
-You will find under ```components``` folder:
+You will find under ```components``` folder: <br />
 🗺️ System Navbar <br />
 🔆 Lightboxes <br />
 🖱️ Buttons (Big, small & others) <br />
@@ -36,7 +36,7 @@ In this folders the style guide is conveyed in images so it's visually clear wha
 I'll leave our fantastic gal in front-end to explain you whatever is going on in this department. 
 
 #### Resources 🧮
-You will find in this folder all regarding to additional elements like illustrations or mockups:
+You will find in this folder all regarding to additional elements like illustrations or mockups: <br />
 
 📊 Graphs <br />
 🔣 Icons <br />
